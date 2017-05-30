@@ -698,6 +698,7 @@ nav li a:focus {
 6.0 FOOTER
 --------------------------------------------------------------*/
 footer {
+	font-family: 'PT Sans', Helvetica, sans-serif;
   text-align: center;
   color: #8c8989;
   background-color: #282A2B;
